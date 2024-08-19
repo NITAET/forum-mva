@@ -69,7 +69,7 @@ video {
     cursor: pointer;
     font-size:20px;
     text-decoration:none;
-    padding:30px 90px; 
+    padding:30px 60px; 
     margin-right: 20px;
     color:#fff;
     border-radius:0px;
@@ -87,7 +87,7 @@ font-family: arial;}
     cursor: pointer;
     font-size:20px;
     text-decoration:none;
-    padding:30px 135px; color:#fff;
+    padding:30px 95px; color:#fff;
     margin-top: 20px;
     border-radius:0px;
     border:2px solid #fff;
@@ -127,7 +127,7 @@ font-family: arial;}
             margin-left: auto;
             margin-top: 5%;
             z-index: 100;
-            width: 300px;
+            width: 100px;
             align-content: center;
 }
 
@@ -136,7 +136,7 @@ table   {
         margin: auto;
 }
 
-.social {height: 100px;
+.social {height: 70px;
          position: relative;
         top: 4%;
         z-index: 100;
@@ -148,7 +148,7 @@ table   {
         margin: auto;
 }
 
-.footer {height: 70px;
+.footer {height: 0px;
          position: relative;
         top: 5%;
         z-index: 100;
@@ -156,7 +156,7 @@ table   {
 }
 .img-par {height: 80px;}
 
-.cr     {height: 30px;
+.cr     {height: 20px;
         position: relative;
         top: 3%;
         z-index: 100;
@@ -202,129 +202,22 @@ table   {
     
     
     
-@media(max-width: 977px){
+@media(max-width: 831px){
 table   {
         margin: auto;
-        margin-left: 35%;
+     
 }
-.img-par {height: 40px;}
+.img-par {height: 30px;}
     
-.name1 {font-size: 28px;
+.name1 {font-size: 13px;
     } 
 .name2 {
-        font-size: 52px;
+        font-size: 24px;
 }
     
 .logo_mv    {
             position: relative;
-            margin-left: 37%;
-            margin-top: 10%;}
-.name_main {
-            margin-left: 13%;
-            margin-top: 3%;
-}
-.menu_main {
-            margin-left: 30%;
-            margin-top: 3%;
-}
-
-.footer {
-         margin-left: 7%;
-}
-.footer1 { margin: auto;
-}
-
-
-    
-    
-@media(max-width: 800px){
-
-table   {
-        margin: auto;
-        margin-left: 35%;
-}
-.img-par {height: 40px;}
-    
-.name1 {font-size: 25px;
-    } 
-.name2 {
-        font-size: 47px;
-}
-    
-.logo_mv    {
-            position: relative;
-            margin-left: 37%;
-            margin-top: 10%;}
-.name_main {
-            margin-left: 8%;
-            margin-top: 3%;
-}
-.menu_main {
-            margin-left: 30%;
-            margin-top: 3%;
-}
-
-.footer {
-         margin-left: 7%;
-}
-.footer1 { margin: auto;
-}
-    
-    
-    
-@media(max-width: 556px){
-table   {
-        margin: auto;
-        margin-left: 21%;
-}
-.img-par {height: 40px;}
-    
-.name1 {font-size: 16px;
-    } 
-.name2 {
-        font-size: 30px;
-}
-    
-.logo_mv    {
-            position: relative;
-            margin-left: 20%;
-            margin-top: 10%;}
-.name_main {
-            margin-left: 13%;
-            margin-top: 3%;
-}
-.menu_main {
-            margin-left: 17%;
-            margin-top: 3%;
-}
-
-.footer {
-         margin-left: 7%;
-}
-.footer1 { margin: auto;
-}
-
-    
-    
-    
-    
-    
-    @media(max-width: 520px){
-table   {
-        margin: auto;
-        margin-left: 17%;
-}
-.img-par {height: 40px;}
-    
-.name1 {font-size: 16px;
-    } 
-.name2 {
-        font-size: 30px;
-}
-    
-.logo_mv    {
-            position: relative;
-            margin-left: 25%;
+            margin-left:20%;
             margin-top: 10%;}
 .name_main {
             margin-left: 9%;
@@ -340,40 +233,7 @@ table   {
 }
 .footer1 { margin: auto;
 }
-
-        
-        
-    @media(max-width: 350px){
-table   {
-        margin: auto;
-        margin-left: 17%;
-}
-.img-par {height: 40px;}
     
-.name1 {font-size: 16px;
-    } 
-.name2 {
-        font-size: 30px;
-}
     
-.logo_mv    {
-            position: relative;
-            margin-left: 25%;
-            margin-top: 10%;}
-.name_main {
-            margin-left: 9%;
-            margin-top: 3%;
-}
-.menu_main {
-            margin-left: 12%;
-            margin-top: 3%;
-}
-
-.footer {
-         margin-left: 6%;
-}
-.footer1 { margin: auto;
-}
-
 
 </style>
