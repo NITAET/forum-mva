@@ -168,7 +168,7 @@ table   {
 @media(max-width: 1150px){
 table   {
         margin: auto;
-        margin-left: 35%;
+        margin-left: 32%;
 }
 .img-par {height: 28px;}
     
@@ -199,7 +199,9 @@ table   {
 }
     
     
-   
+ .translate     {font-family: Arial;
+                color: #fff;
+                text-decoration: none;}  
     
     
     
