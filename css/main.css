@@ -69,7 +69,7 @@ video {
     cursor: pointer;
     font-size:20px;
     text-decoration:none;
-    padding:30px 55px; 
+    padding:30px 50px; 
     margin-right: 20px;
     color:#fff;
     border-radius:0px;
@@ -170,9 +170,9 @@ table   {
         margin: auto;
         margin-left: 35%;
 }
-.img-par {height: 40px;}
+.img-par {height: 28px;}
     
-.name1 {font-size: 28px;
+.name1 {font-size: 10px;
     } 
 .name2 {
         font-size: 52px;
@@ -207,9 +207,9 @@ table   {
         margin: auto;
      
 }
-.img-par {height: 30px;}
+.img-par {height: 27px;}
     
-.name1 {font-size: 13px;
+.name1 {font-size: 10px;
     } 
 .name2 {
         font-size: 24px;
