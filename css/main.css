@@ -184,7 +184,7 @@ table   {
             margin-left: 37%;
             margin-top: 10%;}
 .name_main {
-            margin-left: 17%;
+            margin-left: 13%;
             margin-top: 3%;
 }
 .menu_main {
@@ -196,6 +196,7 @@ table   {
          margin-left: 7%;
 }
 .footer1 { margin: auto;
+         margin-top: 3%;
 }
     
     
@@ -227,12 +228,13 @@ table   {
             margin-top: 3%;
 }
 .menu_main {
-            margin-left: 12%;
+            margin-left: 9%;
             margin-top: 3%;
 }
 
 .footer {
          margin-left: 6%;
+         margin-top: 3%;
 }
 .footer1 { margin: auto;
 }
